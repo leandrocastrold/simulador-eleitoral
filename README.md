@@ -15,6 +15,7 @@ Já o front-end foi feito com o React, utilizando-se recursos como Hooks, React-
 * Visual Studio Code
 * React 
 * Formik / Yup
+* Bootstrap
 
 ## Links
 
