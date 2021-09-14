@@ -23,8 +23,8 @@ O banco de dados e back-end estão configurados para rodar em containeres, utili
 
 ## Links
 
-[Front-end com React](https://github.com/leandrocastrold/react-simulador-eleitoral)
+[Front-end com React e Bootstrap](https://github.com/leandrocastrold/react-simulador-eleitoral)
 
-[Back-end com Spring Boot](https://github.com/leandrocastrold/spring-boot-simulador-eleitoral)
+[Back-end com Spring Boot, MySQL e Docker](https://github.com/leandrocastrold/spring-boot-simulador-eleitoral)
 
 
