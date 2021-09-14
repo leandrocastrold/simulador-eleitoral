@@ -7,7 +7,7 @@ Esse projeto foi desenvolvido com intuito de pôr em prática conhecimentos adqu
 O back-end da aplicação foi desenvolvida com Java (Spring Boot), utilizando-se conceitos de validação de dados, paginação e boas práticas. O banco de dados escolhido foi MySQL, porém é facilmente migrável para outro. 
 Já o front-end foi feito com o React, utilizando-se recursos como Hooks, React-Router e ContextAPI. Além disso, foi utilizado Formik e Yup para melhor tratamento de formulários. Conceitos de validação e paginação também foram aplicados nesse projeto.
 
-##UPDATE
+## UPDATE
 O banco de dados e back-end estão configurados para rodar em containeres, utilizando o docker-compose do Docker. 
 
 ## Tecnologias utilizadas
